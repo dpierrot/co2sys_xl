@@ -65,4 +65,11 @@ CO2Sys Excel Version History
 	   . See changes made to version 2.3 dated on 12/14/2016 and before, as well as those made to Special version 2.1 (12/14/2016) (called v2.4 on GitHub)
                . found numvar misspelled as “numbar”. Doesn’t seem to create issue. Fixed anyway (05/13/2019)
 
-        
+        Version 3.0 (15 June 2019): CO2sys_v3.0.xls - based on Special v2.3
+
+             . Updated the info about the macro and the NH4-H2S constants (06/07/2019)
+	 . Suppressed screen updating when selecting cells on INFO and INPUT sheets (06/07/2019)
+	 . Bug fix: affected calculation of KF of 'Perez and Fraga, 1987' (lnKF was spelled InKF instead- first letter was an upper case “i” instead of an “L”).(07/18/2019)
+	 . Added Peng’s correction of TA for  case of input TA, Carbonate.(07/18/2019)
+	. pH Scale and Constants used (column R in DATA sheet) are refreshed when activating the DATA sheet. (02/05/2021)
+ 
