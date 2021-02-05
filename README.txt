@@ -50,7 +50,7 @@ CO2Sys Excel Version History
                         and the resulting row of data will be colored in red. The 'SubFlag' column at the end will state the reason.
 
 
-         Version 2.3 (14 December 2016): CO2sys_v2.3xls - based on regular v2.2 (no H2S-NH3)
+         Version 2.3 (14 December 2016): CO2sys_v2.3.xls - based on regular v2.2 (no H2S-NH3)
 
               . Corrected output format of results
               . Bug fix: added code to prevent calculation of pH (fromTATC or fromTAfCO2) from getting stuck in infinite loop of alternatively negative and positive delta pHs.
@@ -60,4 +60,9 @@ CO2Sys Excel Version History
 	  . Issue fix: data flag is now in proper column and text color is red when flagged (12/14/2016)
               . found numvar misspelled as “numbar”. Doesn’t seem to create issue. Fixed anyway (05/13/2019)
 
- 
+         Special Version 2.3 (14 December 2016): CO2sys_v2.3  NH3-H2S.xls - based on regular v2.3 (no H2S-NH3) dated (12/14/2016)
+	  
+	   . See changes made to version 2.3 dated on 12/14/2016 and before, as well as those made to Special version 2.1 (12/14/2016) (called v2.4 on GitHub)
+               . found numvar misspelled as “numbar”. Doesn’t seem to create issue. Fixed anyway (05/13/2019)
+
+        
