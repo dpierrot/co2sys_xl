@@ -1,3 +1,8 @@
+Please cite as:
+
+Pierrot, D., Epitalon, J.-M., Orr, J.C., Lewis, E., and Wallace, D. W. R., MS Excel program developed for CO2 system calculations – version 3.0, (2021), GitHub repository, https://github.com/dpierrot/co2sys_xl
+
+
 CO2Sys Excel Version History
 
 
